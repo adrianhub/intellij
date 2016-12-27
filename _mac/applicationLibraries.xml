@@ -1,0 +1,67 @@
+<application>
+  <component name="libraryTable">
+    <library name="gem-wrappers (v1.2.7, RVM: jruby-1.7.2 [commerce] (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@commerce/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@commerce/gems/gem-wrappers-1.2.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@commerce/gems/gem-wrappers-1.2.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@commerce/gems/gem-wrappers-1.2.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="jruby-openssl (v0.9.5, RVM: jruby-1.7.2 [commerce] (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@global/gems/jruby-openssl-0.9.5-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@global/gems/jruby-openssl-0.9.5-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="rake (v0.9.6, RVM: jruby-1.7.2 [commerce] (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@global/gems/rake-0.9.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@global/gems/rake-0.9.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@global/gems/rake-0.9.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/jruby-1.7.2@global/gems/rake-0.9.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="RVM: jruby-1.7.2 [commerce] (1) facet library">
+      <CLASSES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/shared" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/1.8" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/shared" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/1.8" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+      </SOURCES>
+    </library>
+    <library name="RVM: jruby-1.7.2 [global] (1) facet library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/shared" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/1.8" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/shared" />
+        <root url="file://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/ruby/1.8" />
+        <root url="jar://$USER_HOME$/.rvm/rubies/jruby-1.7.2/lib/jruby.jar!/jruby" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

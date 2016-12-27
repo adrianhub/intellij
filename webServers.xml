@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ecd94ff0-2661-4a85-a3e7-854734c92e91" name="dev box" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/Volumes/TRTOP" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

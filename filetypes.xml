@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*-??.css;*-??_??.css;*-c.css;*-c.js;*-gen.css;*-gen.js;*.hprof;*.precompiled.dust;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;CdsHotelsComplete.js;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
