@@ -1,6 +1,9 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="32694a67-f3f9-4204-a14a-62cf1c44dcf4" name="WHTOP" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="/Volumes/warehouse" accessType="MOUNT" />
+      </webServer>
       <webServer id="ecd94ff0-2661-4a85-a3e7-854734c92e91" name="dev box" url="http://localhost">
         <fileTransfer port="0" mountedRoot="/Volumes/TRTOP" accessType="MOUNT" />
       </webServer>
